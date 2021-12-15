@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Atharva Bakale</h1>
 <h3 align="center">I'm Atharva Bakale a Student, CODM Sweat & Tech Enthusiast who does coding (web development, app development etc.). Passionate to contribute and make cool products.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BakaleAtharva" alt="BakaleAtharva" /> </p>
-
-- 🔭 I'm Currently Working On [CodingProjects](https://github.com/BakaleAtharva/CodingProjects)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharva-Bakale-2006" alt="BakaleAtharva" /> </p>
 
 - 🌱 I'm Currently Learning **Python, Java, HTML etc.**
 

@@ -13,4 +13,4 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharva-Baakle2006&show_icons=true" alt="BakaleAtharva" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharva-Bakale2006&show_icons=true" alt="BakaleAtharva" /></p>

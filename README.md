@@ -1,16 +1,16 @@
-### Hi there, I'm Atharva - aka [Atharva][mainserver] 👋🏻
+<h1 align="center">Hi 👋🏻, I'm Atharva Bakale</h1>
+<h3 align="center">I'm Atharva Bakale a Student, CODM Sweat & Tech Enthusiast who does coding (web development, app development etc.). Passionate to contribute and make cool products.</h3>
 
-## I'm a Student, Gamer, Beginner Coder & Discord Enthusiast!
-- 🔭 I'm Currently Working On A [VS Code Course][mainserver]!
-- 🌱 I'm Currently Learning Coding (Python, Java etc.).
-- 👯‍♂️ I'm Looking To Grow My Discord Servers (https://discord.gg/KWYb5TwbdT & https://discord.gg/3ANeFqzvx4 )
-- 🥅 Goals: Get My Discord Server Huge
-- ⚡ Fun Fact: I play CODM & Am A Ranked Enthusiast & Sweat.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BakaleAtharva" alt="BakaleAtharva" /> </p>
 
+- 🔭 I'm Currently Working On [CodingProjects](https://github.com/BakaleAtharva/CodingProjects)
 
+- 🌱 I'm Currently Learning **Python, Java, HTML etc.**
 
+- 📫 How to reach me **! Atharva Bakale#9419** on [Discord](https://discord.com/login) or [DiscordServer](https://discord.gg/Wdy4WYB8BC)
 
-<br />
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-[mainserver]: https://discord.gg/KWYb5TwbdT
-[secondserver]: https://discord.gg/3ANeFqzvx4
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharva-Baakle2006&show_icons=true" alt="BakaleAtharva" /></p>
